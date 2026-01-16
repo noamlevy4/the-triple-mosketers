@@ -12,12 +12,21 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #ffe2a3;
+text-align: center;
+}
+p{
+    text-align: center;
 }
 
 img{
-    width: 400px;
-    border-radius: 15px;
+    width: 300px;
+    border-radius: 30px;
     align-items: center;
     box-shadow: #333 2px;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
 }
+
