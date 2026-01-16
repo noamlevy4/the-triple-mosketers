@@ -1,5 +1,4 @@
 function greet() {
-    alert("Hello from Student B!");
+  document.querySelector("body").style.backgroundColor = "black";
+  console.log("Website loaded!");
 }
-
-console.log("Website loaded!");
