@@ -2,18 +2,23 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: red;
 }
 
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
   padding: 20px;
+   width: 80%;
+    margin: 0 auto;
+      background-color: rgb(252, 129, 120);
+
 }
 
 h1 {
-  color: #ffe2a3;
+  color: #fff7e5;
   text-align: center;
+
+  
 }
 p {
   text-align: center;
@@ -21,7 +26,7 @@ p {
 
 img {
   width: 300px;
-  border-radius: 30px;
+  border-radius: 40px;
   align-items: center;
   box-shadow: #333 2px;
   display: block;
