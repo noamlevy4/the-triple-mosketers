@@ -34,3 +34,16 @@ img {
   margin: auto;
   margin-top: 10px;
 }
+
+input{
+    width: 130px;
+    padding: 5px;
+box-shadow: #f0f0f0 3px;
+border-radius: 5px;
+border:1px solid black ;
+background-color: rgb(255, 209, 83);
+display: block;
+justify-content: center;
+margin: auto;
+margin-top: 10px;
+}
