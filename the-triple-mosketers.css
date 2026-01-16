@@ -1,32 +1,31 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: red;
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
 }
 
 h1 {
-    color: #ffe2a3;
-text-align: center;
+  color: #ffe2a3;
+  text-align: center;
 }
-p{
-    text-align: center;
-}
-
-img{
-    width: 300px;
-    border-radius: 30px;
-    align-items: center;
-    box-shadow: #333 2px;
-    display: block;
-    justify-content: center;
-    margin: auto;
-    margin-top: 10px;
+p {
+  text-align: center;
 }
 
+img {
+  width: 300px;
+  border-radius: 30px;
+  align-items: center;
+  box-shadow: #333 2px;
+  display: block;
+  justify-content: center;
+  margin: auto;
+  margin-top: 10px;
+}
