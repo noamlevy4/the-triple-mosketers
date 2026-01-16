@@ -14,10 +14,3 @@ body {
 h1 {
     color: #333;
 }
-
-img{
-    width: 400px;
-    border-radius: 15px;
-    align-items: center;
-    box-shadow: #333 2px;
-}
